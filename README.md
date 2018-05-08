@@ -23,3 +23,7 @@ To create the second tab, we then returned to data analysis, pulling historical 
 </p>
 
 To make the web page accessible to anyone, we deployed it using ShinyApps.io, successfully debugging issues related to package masking and objects not being recognized. Please enjoy our shiny app [here](https://maureen24.shinyapps.io/app1/). 
+
+<p align="center">
+<img src = "images/tabs.jpg" width = "500">
+</p>
