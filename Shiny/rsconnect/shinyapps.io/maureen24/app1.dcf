@@ -1,0 +1,10 @@
+name: app1
+title:
+username:
+account: maureen24
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 324502
+bundleId: 1360942
+url: https://maureen24.shinyapps.io/app1/
+when: 1525726491.72883
